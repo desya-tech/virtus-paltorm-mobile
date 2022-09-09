@@ -1,4 +1,4 @@
-package com.example.virtus_platform
+package com.vti.virtus_platform
 
 import io.flutter.embedding.android.FlutterActivity
 
