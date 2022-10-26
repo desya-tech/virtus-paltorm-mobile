@@ -138,7 +138,7 @@ class _HomeState extends State<Home> {
                       key: webViewKey,
                       initialUrlRequest: URLRequest(
                           url: Uri.parse(
-                              "https://app.virtusindonesia.com:9443")),
+                              "https://app.virtusindonesia.com/portal")),
                       initialOptions: options,
                       pullToRefreshController: pullToRefreshController,
                       onWebViewCreated: (controller) {
